@@ -1,0 +1,11 @@
+C:\Users\carlo\Documents\Universidad\2021\III Cuatrimistre\Practica Profesional Registro civil\dgsc_sci\DGSCBD\bin\Debug\DGSCBD.dll
+C:\Users\carlo\Documents\Universidad\2021\III Cuatrimistre\Practica Profesional Registro civil\dgsc_sci\DGSCBD\bin\Debug\DGSCBD.pdb
+C:\Users\carlo\Documents\Universidad\2021\III Cuatrimistre\Practica Profesional Registro civil\dgsc_sci\DGSCBD\bin\Debug\DGSCEL.dll
+C:\Users\carlo\Documents\Universidad\2021\III Cuatrimistre\Practica Profesional Registro civil\dgsc_sci\DGSCBD\bin\Debug\Newtonsoft.Json.dll
+C:\Users\carlo\Documents\Universidad\2021\III Cuatrimistre\Practica Profesional Registro civil\dgsc_sci\DGSCBD\bin\Debug\DGSCEL.pdb
+C:\Users\carlo\Documents\Universidad\2021\III Cuatrimistre\Practica Profesional Registro civil\dgsc_sci\DGSCBD\bin\Debug\Newtonsoft.Json.xml
+C:\Users\carlo\Documents\Universidad\2021\III Cuatrimistre\Practica Profesional Registro civil\dgsc_sci\DGSCBD\obj\Debug\DGSCBD.csproj.AssemblyReference.cache
+C:\Users\carlo\Documents\Universidad\2021\III Cuatrimistre\Practica Profesional Registro civil\dgsc_sci\DGSCBD\obj\Debug\DGSCBD.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Documents\Universidad\2021\III Cuatrimistre\Practica Profesional Registro civil\dgsc_sci\DGSCBD\obj\Debug\DGSCBD.csproj.CopyComplete
+C:\Users\carlo\Documents\Universidad\2021\III Cuatrimistre\Practica Profesional Registro civil\dgsc_sci\DGSCBD\obj\Debug\DGSCBD.dll
+C:\Users\carlo\Documents\Universidad\2021\III Cuatrimistre\Practica Profesional Registro civil\dgsc_sci\DGSCBD\obj\Debug\DGSCBD.pdb
